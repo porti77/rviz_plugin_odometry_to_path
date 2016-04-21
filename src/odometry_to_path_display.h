@@ -1,6 +1,12 @@
-/*
- * Copyright (c) 2008, Willow Garage, Inc.
- * All rights reserved.
+/** \file odometry_to_path_display.h
+ * \author Jorge Cabanelas 
+ * \email jcabanelas@uvigo.com
+ * \version 2.0
+ * \date    2016
+ * Pid of ulises project (in setpoint as an arc and current odometry, output setpoint of engine and rudder)
+ * (C) 2016 Universidad de Vigo
+ * Departamento de Sistemas Automáticos Avanzados
+ *
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions are met:
@@ -26,6 +32,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  */
+
 
 
 #ifndef RVIZ_PATH_DISPLAY_H

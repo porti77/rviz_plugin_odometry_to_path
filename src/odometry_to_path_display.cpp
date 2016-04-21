@@ -1,6 +1,12 @@
-/*
- * Copyright (c) 2008, Willow Garage, Inc.
- * All rights reserved.
+/** \file odometry_to_path_display.cpp
+ * \author Jorge Cabanelas 
+ * \email jcabanelas@uvigo.com
+ * \version 2.0
+ * \date    2016
+ * Pid of ulises project (in setpoint as an arc and current odometry, output setpoint of engine and rudder)
+ * (C) 2016 Universidad de Vigo
+ * Departamento de Sistemas Automáticos Avanzados
+ *
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions are met:
